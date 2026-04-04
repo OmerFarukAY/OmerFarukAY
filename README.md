@@ -47,7 +47,8 @@ I enjoy designing **end-to-end solutions**, from intuitive frontends to robust b
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmerFarukAY&show_icons=true&theme=radium" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OmerFarukAY&show_icons=true&theme=radium&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmerFarukAY&layout=compact&theme=radium" height="180"/>
 </p>
 
 ---
