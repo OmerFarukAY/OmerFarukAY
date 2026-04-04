@@ -35,10 +35,9 @@ I am a passionate developer focusing on designing end-to-end, secure mobile solu
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmerFarukAY&show_icons=true&theme=radium&hide_border=true" height="165" alt="Ömer's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmerFarukAY&layout=compact&theme=radium&hide_border=true" height="165" alt="Top Languages" />
-</div>
+[![Stats](https://github-readme-stats.vercel.app/api?username=OmerFarukAY&show_icons=true&theme=radium)](https://github.com/OmerFarukAY)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmerFarukAY&layout=compact&theme=radium)](https://github.com/OmerFarukAY)
+
 
 ---
 
