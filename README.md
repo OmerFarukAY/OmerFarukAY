@@ -38,8 +38,8 @@ I am a passionate developer focusing on designing end-to-end mobile solutions wi
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="github-readme-stats-six-kappa-z9p99h37cf.vercel.app/api?username=OmerFarukAY&show_icons=true&theme=dark&hide_border=true" height="165" alt="Ömer's GitHub Stats" />
-  <img src="github-readme-stats-six-kappa-z9p99h37cf.vercel.app/api/top-langs/?username=OmerFarukAY&layout=compact&theme=dark&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-six-kappa-z9p99h37cf.vercel.app/api?username=OmerFarukAY&show_icons=true&theme=dark&hide_border=true" height="165" alt="Ömer's GitHub Stats" />
+  <img src="https://github-readme-stats-six-kappa-z9p99h37cf.vercel.app/api/top-langs/?username=OmerFarukAY&layout=compact&theme=dark&hide_border=true" height="165" alt="Top Languages" />
 </div>
 
 ---
