@@ -1,57 +1,51 @@
-# 👋 Hi there, I'm Ömer Faruk AY
+<h1 align="center">Hi there 👋, I'm Ömer Faruk AY</h1>
+<h3 align="center">Computer Engineer | Software Developer | Mobile Architect</h3>
 
-### 🚀 Computer Engineer | Software Developer
-
-I’m a passionate software developer focused on building **secure, scalable, and user-centric mobile applications**.  
-I enjoy designing **end-to-end solutions**, from intuitive frontends to robust backend systems.
-
-💡 My core motivation is:
-- Writing **clean, maintainable code**
-- Designing **efficient algorithms**
-- Building **highly secure applications** (AppSec & NetSec)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Enthusiast;Building+Secure+Mobile+Solutions;Exploring+Machine+Learning" alt="Typing SVG" /></a>
+</p>
 
 ---
 
-### 🔭 Currently Working On
-- 📱 Flutter & Dart for modern mobile development
-- 🏗️ Mobile application architectures
-- 🔐 Secure coding practices
+### 👨‍💻 About Me
+
+I am a passionate developer focusing on designing end-to-end, secure mobile solutions with human-centric interfaces and solid backend architectures. At the core of my career goals lies writing clean code, conceptualizing solid algorithms, and building highly secure applications (AppSec, NetSec).
+
+- 📱 **Currently diving deep into:** Flutter, Dart, and Mobile Architectures
+- 🧠 **Exploring:** Fuzzy Logic, Machine Learning (Python), and Application Security
+- 🤝 **Looking to collaborate on:** Open-source mobile projects and ML integrations
+- 📫 **How to reach me:** [ayfaruk.01@gmail.com](mailto:ayfaruk.01@gmail.com)
+- 💼 **Portfolio:** [omer-portfolio.com](https://seninsiten.com)
 
 ---
 
-### 🌱 Currently Learning
-- 🧠 Fuzzy Logic
-- 🤖 Machine Learning with Python
-- 🛡️ Application Security & Network Security
+### 🛠️ Languages and Tools
 
----
-
-### 🌐 Connect With Me
-- 💼 Portfolio: [omer-portfolio.com](https://seninsiten.com)
-- 📫 Email: [ayfaruk.01@gmail.com](mailto:ayfaruk.01@gmail.com)
-
----
-
-### 🛠️ Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmerFarukAY&show_icons=true&theme=radium&count_private=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmerFarukAY&layout=compact&theme=radium" height="180"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OmerFarukAY&show_icons=true&theme=radium&hide_border=true" height="165" alt="Ömer's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmerFarukAY&layout=compact&theme=radium&hide_border=true" height="165" alt="Top Languages" />
+</div>
 
 ---
 
-### ✨ Fun Fact
-> I don't just write code — I build **secure digital experiences**.
+### 🌐 Connect with me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ayfaruk.01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://seninsiten.com"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" /></a>
+</p>
