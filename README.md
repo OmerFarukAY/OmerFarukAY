@@ -16,7 +16,7 @@ I am a passionate developer focusing on designing end-to-end mobile solutions wi
 - 🧠 **Exploring:** Fuzzy Logic, Python, and advanced Application Security
 - 🤝 **Looking to collaborate on:** Open-source mobile projects and Security integrations
 - 📫 **How to reach me:** [ayfaruk.01@gmail.com](mailto:ayfaruk.01@gmail.com)
-- 🌐 **Website:** [omerfarukay.com](http://omerfarukay.com) *(Comming soon!)*
+- 🌐 **Website:** [omerfarukay.com](http://omerfarukay.com)
 
 ---
 
