@@ -15,7 +15,7 @@ I am a passionate developer focusing on designing end-to-end mobile solutions wi
 - 📱 **Currently diving deep into:** Flutter, Dart, and Mobile Architectures
 - 🧠 **Exploring:** Fuzzy Logic, Python, and advanced Application Security
 - 🤝 **Looking to collaborate on:** Open-source mobile projects and Security integrations
-- 📫 **How to reach me:** [ayfaruk.01@gmail.com](mailto:ayfaruk.01@gmail.com)
+- 📫 **How to reach me:** [ayfaruk.01@gmail.com](mailto:omer@omerfarukay.com)
 - 🌐 **Website:** [omerfarukay.com](http://omerfarukay.com)
 
 ---
